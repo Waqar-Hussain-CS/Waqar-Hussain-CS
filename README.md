@@ -115,9 +115,9 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-Hussian-CS&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-Hussian-CS&theme=dark&hide_border=true)
 
 
 ---
