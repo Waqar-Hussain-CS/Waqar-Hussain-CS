@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waqar-Hussian-CS&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Waqar-Hussian-CS?style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Waqar-Hussain-CS&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Waqar-Hussain-CS?style=social" alt="Followers" />
 </p>
 
 
