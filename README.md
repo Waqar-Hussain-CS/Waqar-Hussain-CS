@@ -1,6 +1,7 @@
 
-
-<img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/f846165da13fbbb97469650efa0f9f9d3cf3fdb5635648eccea595db4c1ff857/68747470733a2f2f6c697665696d616765732e616c676f776f726b732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323032322f30352f33313130333033332f6465764f70732d636c6f75642d6e61746976652e676966" width="600"/>
+</div>
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Waqar Hussain
