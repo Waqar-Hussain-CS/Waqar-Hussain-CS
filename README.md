@@ -58,7 +58,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer" width="40" height="40" />  Tools & Technologies
+## 🧰 DevOps Toolchain
 
 
 
@@ -107,11 +107,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20update-today-brightgreen" alt="Profile update" />
-  <img src="https://komarev.com/ghpvc/?username=Waqar-Hussian-CS&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Waqar-Hussian-CS?label=Followers&style=social" alt="Followers" />
-</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25" style="vertical-align: middle;" />  **Let's Stay Connected:**
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqarhussain.c@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-hussain-c) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/waqar_cybersec)  
@@ -119,14 +114,8 @@
 
 
 
----
 
-## ⭐ GitHub Commits & Contributions 🐍
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
