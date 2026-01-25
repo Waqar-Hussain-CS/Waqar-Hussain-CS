@@ -110,10 +110,10 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25" style="vertical-align: middle;" />  **Let's Stay Connected:**
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqarhussain.c@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-hussain-c) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/waqar_cybersec)  
+
  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Waqar-Hussian-CS&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Waqar-Hussain-CS&theme=github-compact)
 
 
 ---
