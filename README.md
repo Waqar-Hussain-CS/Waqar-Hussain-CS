@@ -91,12 +91,11 @@
 
  
 
+## 📊 GitHub Activity
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waqar-Hussain-CS&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-Hussian-CS&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-Hussian-CS&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-Hussain-CS&theme=tokyonight)
 
 
 ---
