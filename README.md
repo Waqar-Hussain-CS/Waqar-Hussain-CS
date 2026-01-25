@@ -42,7 +42,7 @@
 ---
 
 ## 📜 Training & Knowledge  
-- EduQual **RQF Level 6 in Cybersecurity** *(equivalent to a Bachelor's degree)*  
+- EduQual **RQF Level 6 in Artificial Intelligent Operaation (AIOPS)** 
 - Knowledge of **ISO 27001 / 27017 / 27018** (Implementation & Auditing)  
 - Knowledge of **NIST 800-82 & ISO 27019:2017** (SCADA / ICS Security)  
 - Familiar with **PCI DSS Compliance & CISSP Concepts**  
