@@ -14,20 +14,30 @@
 </h1>
 
 
-## 💫 About Me  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        
+## 🚀 What I Work On
 
-I am a **Cybersecurity Professional & SOC Analyst** with hands-on experience in **Threat Hunting, Incident Response & Security Automation**.  
-I also have practical knowledge of **DevOps, Cloud Security & AI**, building labs and projects to strengthen my skills.  
-Passionate about continuous learning, I believe in *learning by doing* and sharing my work with the community.  
+- Managing and troubleshooting Linux-based systems
+- Designing and deploying AWS cloud infrastructure
+- Working with AWS services including EKS, ECR, ECS, VPC, S3, EC2, and RDS
+- Containerizing applications using Docker containers
+- Orchestrating containerized workloads using Kubernetes
+- Managing infrastructure as code using Terraform
+- Handling configuration management using Ansible
+- Writing automation scripts using Bash, Python, and YAML
+- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins
 
-
----
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/96/a1/25/96a1251dbda9712148bab005c5ae34e1.gif" width="600" alt="Cyber Attack Map">
-</p>
-
+    </td>
+      <td width="50%" valign="top">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
