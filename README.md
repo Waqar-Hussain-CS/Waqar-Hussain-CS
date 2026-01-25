@@ -107,15 +107,12 @@
 
 
 
-
-<h2 align="center">💡 Quote I Believe In</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&width=900&lines=Security+is+not+a+product,+but+a+process.+–+Bruce+Schneier" alt="quote"/>
+  <b>Thank you for taking the time to explore my work.</b><br/>
+  <sub>
+    If you found this repository useful, feel free to ⭐ star it or connect with me on GitHub.
+  </sub>
 </p>
 
 
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Featured Labs & Projects
