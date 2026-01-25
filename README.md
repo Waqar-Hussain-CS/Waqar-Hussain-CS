@@ -87,7 +87,12 @@
 
 ---
 
+## 📫 How to Reach Me  
+📧 Email: waqar.hussain.cybersec@gmail.com  
+💼 LinkedIn: [Waqar Hussain](https://linkedin.com/in/waqar-hussain-c)  
+✘  Twitter: [@waqar_cybersec](https://x.com/waqar_cybersec)
 
+---
 
  
 
@@ -123,7 +128,3 @@
 
 ---
 
-## 📫 How to Reach Me  
-📧 Email: waqar.hussain.cybersec@gmail.com  
-💼 LinkedIn: [Waqar Hussain](https://linkedin.com/in/waqar-hussain-c)  
-✘  Twitter: [@waqar_cybersec](https://x.com/waqar_cybersec)  
