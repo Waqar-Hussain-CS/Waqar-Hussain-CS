@@ -103,6 +103,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-Hussain-CS&theme=tokyonight)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Waqar-Hussain-CS&theme=tokyo-night&hide_border=true)
+
 
 ---
 
